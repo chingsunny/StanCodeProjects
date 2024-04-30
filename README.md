@@ -5,5 +5,5 @@
 ## 3.[StepUp](stanCode_projects/SC001_lecture01/StepUp.py)
 ## 4.[BeeperRow](stanCode_projects/SC001_lecture02/BeeperRow.py)
 ## 5.[BeeperRowAdv](stanCode_projects/SC001_lecture02/BeeperRowAdv.py)
-## 6.[InfiniteLoop](stanCode_projects/SC001_lecture02/InfiniteLoop.py)
+## 6.[MoveToTheEnd](stanCode_projects/SC001_lecture02/MoveToTheEnd.py)
 ## 7.[Steeplechase](stanCode_projects/SC001_lecture02/Steeplechase.py)
